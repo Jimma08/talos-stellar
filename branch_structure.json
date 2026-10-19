@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-984-feat-sdk-ship-test-utilities-for-mocking-the",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-984-feat-sdk-ship-test-utilities-for-mocking-the": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-984-feat-sdk-ship-test-utilities-for-mocking-the",
+    "origin"
+  ]
+}
